@@ -26,8 +26,10 @@ I genuinely have no clue what this is supposed to be. Maybe an AI-powered idea g
 
 💀 **Concept limbo**  
 📦 No code yet  
-🧠 Model TBD  
+🧠 Model TBD
 
 ---
 
 Made with confusion, caffeine, and too much curiosity ☕️  
+
+Alright I give up!
